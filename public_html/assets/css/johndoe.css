@@ -150,7 +150,7 @@ sup {
 }
 
 a {
-  color: #F85C70;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -2767,7 +2767,7 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f63750;
+  background-color: #e65c6f;
   border-color: #f62b45;
 }
 
